@@ -3,9 +3,9 @@ package com.vodafone.exercise.warehouse;
 import static com.vodafone.exercise.warehouse.DeviceTestConstants.DEVICE_ACTIVE_2;
 import static com.vodafone.exercise.warehouse.DeviceTestConstants.DEVICE_LIST;
 import static com.vodafone.exercise.warehouse.DeviceTestConstants.ID_NOT_EXIST;
-import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.List;
 
